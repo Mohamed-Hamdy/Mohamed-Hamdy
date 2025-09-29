@@ -16,7 +16,7 @@
 
 <div align="center" style="background-color: #f9f9f9; padding: 10px; border-radius: 8px;">
   <a href="https://dev.to/mohamed_el_laithy" style="display: inline-block; margin: 0 20px;">
-    <img src="https://static-00.iconduck.com/assets.00/dev-to-icon-2048x2048-4i261myk.png" height="60"/>
+    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" height="60"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-el-laithy-0155b2173/" style="display: inline-block; margin: 0 10px;">
     <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" height="58"/>
